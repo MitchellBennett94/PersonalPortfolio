@@ -36,4 +36,4 @@ Currently features (4) web pages. Index, Expierence, About, Contact. Plus extern
 I would like to add a picture for each project, and an accompanied JavaScript dropdown list with additional details about said project.
 With the skills and large data sets I would like to transform into tables.
 Add photos for self, and related images for keywords on all pages.
-Dial in the contact form with visuals and a proper link icons.
+Dial in the contact form with visuals and proper link icons.
