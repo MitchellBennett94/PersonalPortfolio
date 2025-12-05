@@ -1,16 +1,27 @@
+body {
+    background-image: url('images/abstractBackG.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #f0f0f0;
+}
+
+
+
 /* General styles */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
-    color: #333;
+    background-color: #ffffff;
+    color: #19234e;
     line-height: 1.6;
 }
 
 /* Navigation styles */
 nav {
-    background-color: #2c3e50;
+    background-color: #14314d;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -27,7 +38,7 @@ nav ul {
 }
 
 nav a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: 500;
     padding: 0.5rem 1rem;
@@ -36,7 +47,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #34495e;
+    background-color: #79bcf3;
 }
 
 /* Main content styles */
@@ -47,20 +58,20 @@ nav a:hover {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #ffffff;
     font-size: 2.5rem;
     margin-bottom: 1rem;
     text-align: center;
 }
 
 h2 {
-    color: #34495e;
+    color: #335188
     font-size: 1.8rem;
     margin-bottom: 1rem;
 }
 
 h3 {
-    color: #2c3e50;
+    color: #335188;
     font-size: 1.4rem;
     margin-top: 1.5rem;
 }
@@ -96,7 +107,7 @@ textarea {
 }
 
 button {
-    background-color: #2c3e50;
+    background-color: #163653;
     color: white;
     padding: 0.8rem 1.5rem;
     border: none;
@@ -107,12 +118,12 @@ button {
 }
 
 button:hover {
-    background-color: #34495e;
+    background-color: #79bcf3;;
 }
 
 /* Experience section styles */
 .experience-item {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 1.5rem;
     margin-bottom: 1.5rem;
     border-radius: 8px;
