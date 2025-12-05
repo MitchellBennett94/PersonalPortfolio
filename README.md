@@ -1,7 +1,7 @@
 ##### ***Personal Portfolio***
 
 
-This website is about a personal portfolio that embodies my resume, and work history. Along with education skills and ersonal biography.
+This website is about a personal portfolio that embodies my resume, and work history. Along with education skills and auto-biography.
 
 
 **Installation/ Setup instructions:**
