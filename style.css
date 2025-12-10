@@ -1,70 +1,22 @@
-.profile-image {
-    float: left;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin-right: 20px;
-    margin-bottom: 10px;
-    border-radius: 8px;
-}
-
-footer {
-    text-align: center; /* Center the content within the footer */
-    padding: 20px;
-    background-color: #0f263b; /* Example background color */
-    color: rgb(255, 255, 255);
-}
-
-.footer-icons ul {
-    list-style-type: none; /* Remove bullet points */
-    padding: 0;
-    margin: 0;
-    display: flex; /* Use flexbox to align icons horizontally */
-    justify-content: center; /* Center the icons within the list */
-    gap: 45px; /* Add space between the icons */
-}
-
-.footer-icons li {
-    display: inline; /* Ensure list items are inline elements */
-}
-
-.footer-icons img { /* Style for the icons */
-    width: 132px;
-    height: 132px;
-    transition: transform 0.3s;
-    border-radius: 10%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 5px;
-    background-color: #ffffff;
-}
-
-.footer-icons img:hover {
-    transform: scale(1.1); /* Optional: Slightly enlarge icons on hover */
-}
-
-
-/* Background image for the entire page */
+/* Combined body rules and fixed ordering */
 body {
     background-image: url('images/abstractBackG.avif');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-}
+    background-color: #ffffff;
 
-/* General styles */
-body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
     color: #19234e;
     line-height: 1.6;
 }
 
 /* Navigation styles */
 nav {
-    background-color: #10263a;
+    background-color: #14314d;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -108,7 +60,7 @@ h1 {
 }
 
 h2 {
-    color: #335188
+    color: #335188;
     font-size: 1.8rem;
     margin-bottom: 1rem;
 }
@@ -161,16 +113,14 @@ button {
 }
 
 button:hover {
-    background-color: #79bcf3;;
+    background-color: #79bcf3;
 }
 
 /* Experience section styles */
 .experience-item {
-    background-color: #fffffff3;
+    background-color: rgb(255, 255, 255);
     padding: 1.5rem;
     margin-bottom: 1.5rem;
-    /*add border around experience items*/
-    border: 10px solid #0f253a;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
@@ -181,9 +131,5 @@ button:hover {
         flex-direction: column;
         align-items: center;
         gap: 1rem;
-    }
-
-    .container {
-        padding: 1rem;
     }
 }
