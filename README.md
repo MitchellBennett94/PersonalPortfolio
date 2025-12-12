@@ -62,13 +62,6 @@ A text-based adventure game developed in Java featuring:
 3. Explore projects and experience sections
 4. Use the contact form to get in touch
 
-
-## Contact
-
-- **LinkedIn:** [Mitchell Bennett](https://www.linkedin.com/in/mitchell-bennett-9aa694188/)
-- **GitHub:** [mitchellbennett](https://github.com/mitchellbennett)
-- **Email:** Available via contact form
-
 ## About
 
 This portfolio demonstrates commitment to:
@@ -76,7 +69,3 @@ This portfolio demonstrates commitment to:
 - Industry best practices
 - Continuous learning and professional development
 - User-friendly application design
-
-## Copyright
-
-&copy; 2025 Mitchell Bennett. All rights reserved.
