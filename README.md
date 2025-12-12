@@ -62,10 +62,7 @@ A text-based adventure game developed in Java featuring:
 3. Explore projects and experience sections
 4. Use the contact form to get in touch
 
-## About
-
-This portfolio demonstrates commitment to:
-- Clean, maintainable code
-- Industry best practices
-- Continuous learning and professional development
-- User-friendly application design
+## Future changes
+I would like to make the projects into an image that has a drop down of details keeping screen easy to read but with deeper content exploration.
+The words could be revised to fit my life and resume plus giving clearer flow through page and getting rid of any redundant information.
+The email could also connect to my personal infomration. Unless the other version then forms has different info then that will be as learned.
