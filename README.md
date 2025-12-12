@@ -46,15 +46,6 @@ Contact page featuring:
 - **JavaScript** - Optional interactivity
 - **Responsive Web Design** - Mobile and desktop compatibility
 
-## Technical Skills Highlighted
-
-- Java
-- Python
-- JavaScript
-- Web Development
-- Object-Oriented Programming
-- Software Development Best Practices
-
 ## Project Example
 
 ### Java Adventure Game
@@ -71,22 +62,6 @@ A text-based adventure game developed in Java featuring:
 3. Explore projects and experience sections
 4. Use the contact form to get in touch
 
-## Structure
-
-```
-PersonalPortfolio/
-├── index.html          # Home page
-├── experience.html     # Projects and experience
-├── contact.html        # Contact information and form
-├── style.css           # Styling
-├── images/             # Images and icons
-│   ├── profilePicture.jpg
-│   ├── contactForm.jpg
-│   ├── linkedIn.jpg
-│   ├── yahoo.jpg
-│   └── gitHub.jpg
-└── README.md           # This file
-```
 
 ## Contact
 
